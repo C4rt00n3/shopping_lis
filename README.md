@@ -19,7 +19,7 @@ O **Shopping List App** é uma aplicação desenvolvida em Kotlin que permite ao
 ![Tela de Cadastro](app/src/main/res/drawable/form.png)
 *Figura 1: Tela de cadastro de itens.*
 
-![Tela de Lista](app/src/main/res/drawable/list.png)
+![Tela de Lista](app/src/main/res/drawable/lista.png)
 *Figura 2: Tela exibindo a lista de itens cadastrados.*
 
 ## Pré-requisitos
